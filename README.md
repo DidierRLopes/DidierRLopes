@@ -20,11 +20,12 @@ _Building an open-source legacy, one commit at a time._
 | [timeseries-cv](https://github.com/DidierRLopes/timeseries-cv) | [Time-Series CrossValidation for NN](https://dro-lopes.medium.com/time-series-crossvalidation-for-nn-6279cd5ae25e) |
 | [UnivariateTimeSeriesForecast](https://github.com/DidierRLopes/UnivariateTimeSeriesForecast) | **Not yet** 😞 |
 | [momentum-football-bets](https://github.com/DidierRLopes/momentum-football-bets) | [Momentum Football Bets](https://dro-lopes.medium.com/momentum-football-bets-daa1d829ae21) |
-| [NeistpointCLI](https://github.com/DidierRLopes/NeistpointCLI) | [NeistPoint Project](https://dro-lopes.medium.com/neistpoint-project-587922a398d0)  |
 | [meme-filter](https://github.com/DidierRLopes/meme-filter) | [Customizable Meme Filter](https://dro-lopes.medium.com/customizable-meme-filter-9158414366d7) |
 | [fear-greed-index](https://github.com/DidierRLopes/fear-greed-index) | Y2B: [Youtube Live coding session](https://www.youtube.com/watch?v=9BMI9cleTTg) |
+| [GiveawayNFTbot](https://github.com/DidierRLopes/GiveawayNFTbot) | [How I created a bot in python to participate in NFT giveaways](https://dro-lopes.medium.com/how-i-created-a-bot-in-python-to-participate-in-nft-giveaways-152df7dafa25) |
 | [LondonVisit](https://github.com/DidierRLopes/LondonVisit) | [K-means algorithm to visit a new city](https://dro-lopes.medium.com/k-means-clustering-to-visit-a-new-city-3a207a96cd97) |
 | [SortMoviesPerRating](https://github.com/DidierRLopes/SortMoviesPerRating) | [Ranking 99 Mind f*ck movies](https://dro-lopes.medium.com/ranking-99-mind-f-ck-movies-d059c56146e7) |
+| [NeistpointCLI](https://github.com/DidierRLopes/NeistpointCLI) | [NeistPoint Project](https://dro-lopes.medium.com/neistpoint-project-587922a398d0)  |
 | [HouseholdBills](https://github.com/DidierRLopes/HouseholdBills) | [Household bills Program](https://dro-lopes.medium.com/household-bills-program-18cc5566d2d1) |
 | [JobAnalysis](https://github.com/DidierRLopes/JobAnalysis) | **Not yet** 😞 |
 | [RecipesProgram](https://github.com/DidierRLopes/RecipesProgram) | [Minion Recipes Program](https://dro-lopes.medium.com/minion-recipes-program-1a926add4a2) |
