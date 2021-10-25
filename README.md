@@ -18,7 +18,7 @@ _Building an open-source legacy, one commit at a time._
 | :--- | :--- |
 | [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) | - [Gamestonk Terminal: The next best thing after Bloomberg Terminal.](https://dro-lopes.medium.com/gamestonk-terminal-the-next-best-thing-after-bloomberg-terminal-a263c001a61f) <br> - [Move over Bloomberg Terminal, here comes Gamestonk Terminal](https://dro-lopes.medium.com/move-over-bloomberg-terminal-here-comes-gamestonk-terminal-f612e5cac1f1) <br> - [Gamestonk Terminal — Can’t Stop, Won’t Stop](https://dro-lopes.medium.com/gamestonk-terminal-cant-stop-won-t-stop-e635662d6f2e)
 | [timeseries-cv](https://github.com/DidierRLopes/timeseries-cv) | [Time-Series CrossValidation for NN](https://dro-lopes.medium.com/time-series-crossvalidation-for-nn-6279cd5ae25e) |
-| [UnivariateTimeSeriesForecast](https://github.com/DidierRLopes/UnivariateTimeSeriesForecast) | **Not yet** 😞 |
+| [UnivariateTimeSeriesForecast](https://github.com/DidierRLopes/UnivariateTimeSeriesForecast) | [An unusual journey learning about NNs for a PhD thesis](https://dro-lopes.medium.com/an-unusual-journey-learning-about-nns-for-a-phd-thesis-dc3a1bc99128) |
 | [momentum-football-bets](https://github.com/DidierRLopes/momentum-football-bets) | [Momentum Football Bets](https://dro-lopes.medium.com/momentum-football-bets-daa1d829ae21) |
 | [meme-filter](https://github.com/DidierRLopes/meme-filter) | [Customizable Meme Filter](https://dro-lopes.medium.com/customizable-meme-filter-9158414366d7) |
 | [fear-greed-index](https://github.com/DidierRLopes/fear-greed-index) | Y2B: [Youtube Live coding session](https://www.youtube.com/watch?v=9BMI9cleTTg) |
