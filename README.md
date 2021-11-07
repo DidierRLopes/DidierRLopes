@@ -32,6 +32,7 @@ _Building an open-source legacy, one commit at a time._
 
 Other Reads:
 - [My journey of memorising a deck of 52 shuffled cards](https://dro-lopes.medium.com/my-journey-of-memorising-a-deck-of-52-shuffled-cards-246be0c680d2)
+- [The start of my machine learning journey](https://dro-lopes.medium.com/the-start-of-my-machine-learning-journey-4f30caf8436f)
 
 ### 📚 Education
 
