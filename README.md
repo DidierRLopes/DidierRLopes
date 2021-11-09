@@ -43,7 +43,7 @@ Other Reads:
 ### 👕 Work
 - [NURVV](https://www.nurvv.com/) as Sensor Fusion (Embedded Firmware) Engineer. Mar 2020 - Oct 2021.
 - [u-blox](https://www.u-blox.com/) as a Software Design Engineer. Nov 2018 - Feb 2020.
-- [FCT-UNL](https://www.fct.unl.pt/en) as a Teacher Assistant of Signal Theory. 2016
+- [FCT-UNL](https://www.fct.unl.pt/en) as a Teacher Assistant of Signal Theory. Jan 2016 - Jun 2016.
 
 
 ### 📬 Get in Touch
