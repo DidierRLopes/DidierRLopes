@@ -30,9 +30,10 @@ _Building an open-source legacy, one commit at a time._
 | [JobAnalysis](https://github.com/DidierRLopes/JobAnalysis) | **Not yet** 😞 |
 | [RecipesProgram](https://github.com/DidierRLopes/RecipesProgram) | [Minion Recipes Program](https://dro-lopes.medium.com/minion-recipes-program-1a926add4a2) |
 
-Other Reads:
+Some of my other Medium posts:
 - [My journey of memorising a deck of 52 shuffled cards](https://dro-lopes.medium.com/my-journey-of-memorising-a-deck-of-52-shuffled-cards-246be0c680d2)
 - [The start of my machine learning journey](https://dro-lopes.medium.com/the-start-of-my-machine-learning-journey-4f30caf8436f)
+- [Handing your twitter account to your most avid community member](https://dro-lopes.medium.com/handing-your-twitter-account-to-your-most-avid-community-member-c5ba8135d6f8)
 
 ### 📚 Education
 
@@ -67,15 +68,4 @@ If you made it this far, here's a pic of me walking my puppy Morty in a Snowy Lo
 
 <!--
 **DidierRLopes/DidierRLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
