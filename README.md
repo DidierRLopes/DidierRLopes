@@ -27,8 +27,9 @@ _Building an open-source legacy, one commit at a time._
 | [SortMoviesPerRating](https://github.com/DidierRLopes/SortMoviesPerRating) | [Ranking 99 Mind f*ck movies](https://dro-lopes.medium.com/ranking-99-mind-f-ck-movies-d059c56146e7) |
 | [NeistpointCLI](https://github.com/DidierRLopes/NeistpointCLI) | [NeistPoint Project](https://dro-lopes.medium.com/neistpoint-project-587922a398d0)  |
 | [HouseholdBills](https://github.com/DidierRLopes/HouseholdBills) | [Household bills Program](https://dro-lopes.medium.com/household-bills-program-18cc5566d2d1) |
-| [JobAnalysis](https://github.com/DidierRLopes/JobAnalysis) | **Not yet** 😞 |
+| [JobAnalysis](https://github.com/DidierRLopes/JobAnalysis) | |
 | [RecipesProgram](https://github.com/DidierRLopes/RecipesProgram) | [Minion Recipes Program](https://dro-lopes.medium.com/minion-recipes-program-1a926add4a2) |
+| [learn-python](https://github.com/DidierRLopes/learn-python) | |
 
 Some of my other Medium posts:
 - [My journey of memorising a deck of 52 shuffled cards](https://dro-lopes.medium.com/my-journey-of-memorising-a-deck-of-52-shuffled-cards-246be0c680d2)
