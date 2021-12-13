@@ -36,13 +36,20 @@ Some of my other Medium posts:
 - [The start of my machine learning journey](https://dro-lopes.medium.com/the-start-of-my-machine-learning-journey-4f30caf8436f)
 - [Handing your twitter account to your most avid community member](https://dro-lopes.medium.com/handing-your-twitter-account-to-your-most-avid-community-member-c5ba8135d6f8)
 
-### 📚 Education
+### 📚 Articles
+
+- [Energy savings from an Eco-Cooperative Adaptive Cruise Control: a BEV platoon investigation](https://ieeexplore.ieee.org/document/8796226)
+- [Step detection using SVM on Nurvv Trackers](https://github.com/DidierRLopes/step-detection-ML)
+- [Forecasting models for time-series: a comparative study between classical methodologies and Deep Learning](https://ciencia.iscte-iul.pt/publications/forecasting-models-for-time-series-a-comparative-study-between-classical-methodologies-and-deep/83651)
+
+### 🎓 Education
 
 - 🇬🇧 MSc. in Control Systems with Distinction from Imperial College London, UK.
 - 🇳🇱 Erasmus program in TU Delft. 
 - 🇵🇹 BSc. in Electrical and Computer Engineering from FCT-UNL, Portugal. Top 1 out of 96 students.
 
 ### 👕 Work
+
 - [NURVV](https://www.nurvv.com/) as Sensor Fusion (Embedded Firmware) Engineer. Mar 2020 - Oct 2021.
 - [u-blox](https://www.u-blox.com/) as a Software Design Engineer. Nov 2018 - Feb 2020.
 - [FCT-UNL](https://www.fct.unl.pt/en) as a Teacher Assistant of Signal Theory. Jan 2016 - Jun 2016.
