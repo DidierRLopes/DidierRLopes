@@ -1,16 +1,20 @@
 # Hey, I'm Didier Rodrigues Lopes 👋
+**Founder and CEO @ OpenBB**
+
+![Didier's GitHub stats](https://github-readme-stats.vercel.app/api?username=DidierRLopes&show_icons=true)
 
 _Building an open-source legacy, one commit at a time._
 
-![Didier's GitHub stats](https://github-readme-stats.vercel.app/api?username=DidierRLopes&show_icons=true)
+_____
 
 ### 😎 About Me
 
 - I'm Portuguese 🇵🇹, was born in Switzerland 🇨🇭, and currently live in London 🇬🇧.
 - I'm the author behind the viral [Gamestonk Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal). Yup, [mom I'm famous](https://www.vice.com/en/article/qjp9vp/gamestonk-terminal-is-a-diy-meme-stock-version-of-bloomberg-terminal). 
-- I love coding, my puppy, and my girlfriend. In that order.
-- Hobbies include: Playing football, More coding, Playstation 2, Stocks & Crypto, <strike>Travel</strike>
+- I love coding, my puppies, and my girlfriend. In that order.
+- Hobbies include: Investing, Playing football, More coding, Playstation 2, <strike>Travel</strike>
 
+_____
 
 ### 🚀 Repositories
 
@@ -36,11 +40,15 @@ Some of my other Medium posts:
 - [The start of my machine learning journey](https://dro-lopes.medium.com/the-start-of-my-machine-learning-journey-4f30caf8436f)
 - [Handing your twitter account to your most avid community member](https://dro-lopes.medium.com/handing-your-twitter-account-to-your-most-avid-community-member-c5ba8135d6f8)
 
+_____
+
 ### 📚 Articles
 
 - [Energy savings from an Eco-Cooperative Adaptive Cruise Control: a BEV platoon investigation](https://ieeexplore.ieee.org/document/8796226)
 - [Step detection using SVM on Nurvv Trackers](https://github.com/DidierRLopes/step-detection-ML)
 - [Forecasting models for time-series: a comparative study between classical methodologies and Deep Learning](https://ciencia.iscte-iul.pt/publications/forecasting-models-for-time-series-a-comparative-study-between-classical-methodologies-and-deep/83651)
+
+_____
 
 ### 🎓 Education
 
@@ -48,12 +56,15 @@ Some of my other Medium posts:
 - 🇳🇱 Erasmus program in TU Delft. 
 - 🇵🇹 BSc. in Electrical and Computer Engineering from FCT-UNL, Portugal. Top 1 out of 96 students.
 
+_____
+
 ### 👕 Work
 
 - [NURVV](https://www.nurvv.com/) as Sensor Fusion (Embedded Firmware) Engineer. Mar 2020 - Oct 2021.
 - [u-blox](https://www.u-blox.com/) as a Software Design Engineer. Nov 2018 - Feb 2020.
 - [FCT-UNL](https://www.fct.unl.pt/en) as a Teacher Assistant of Signal Theory. Jan 2016 - Jun 2016.
 
+_____
 
 ### 📬 Get in Touch
 
@@ -61,8 +72,7 @@ Some of my other Medium posts:
 
 **Medium:** https://dro-lopes.medium.com
 
-**E-mail:** dro.lopes@campus.fct.unl.pt
-
+_____
 
 ### 🐶 Bonus
 
