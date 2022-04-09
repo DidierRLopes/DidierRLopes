@@ -37,6 +37,7 @@ _____
 | [learn-python](https://github.com/DidierRLopes/learn-python) | |
 
 Some of my other Medium posts:
+- [GME DIDN’T TAKE ME TO THE MOON, BUT GAMESTONK TERMINAL DID](https://openbb.co/blog/gme-didnt-take-me-to-the-moon-but-gamestonk-terminal-did)
 - [My journey of memorising a deck of 52 shuffled cards](https://dro-lopes.medium.com/my-journey-of-memorising-a-deck-of-52-shuffled-cards-246be0c680d2)
 - [The start of my machine learning journey](https://dro-lopes.medium.com/the-start-of-my-machine-learning-journey-4f30caf8436f)
 - [Handing your twitter account to your most avid community member](https://dro-lopes.medium.com/handing-your-twitter-account-to-your-most-avid-community-member-c5ba8135d6f8)
