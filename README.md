@@ -1,7 +1,7 @@
 # Hey, I'm Didier 👋
 **Founder and CEO @ OpenBB**
 
-Personal website: [https://didierrlopes.github.io/personal-website/](https://didierrlopes.github.io/personal-website/)
+Personal website: http://didierlopes.com
 
 
 ![Didier's GitHub stats](https://github-readme-stats.vercel.app/api?username=DidierRLopes&show_icons=true)
