@@ -4,7 +4,7 @@
 Personal website: http://didierlopes.com
 
 
-![Didier's GitHub stats](https://github-readme-stats.vercel.app/api?username=DidierRLopes&show_icons=true)
+![Didier's GitHub stats](https://github-stats.vercel.app/api?username=DidierRLopes&show_icons=true)
 
 _Building an open-source legacy, one commit at a time._
 
