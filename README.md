@@ -4,7 +4,7 @@
 Personal website: http://didierlopes.com
 
 <p align="center">
-  <img src="https://github-stats.vercel.app/api?username=DidierRLopes&show_icons=true" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=DidierRLopes&cc=000&tc=fff&ic=fff&bc=fff" />
 </p>
 
 _Building an open-source legacy, one commit at a time._
